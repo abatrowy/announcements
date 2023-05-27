@@ -12,12 +12,9 @@ one thing todo:
 (when there's around 10 players in server and you gonna change map, you gonna hear from the beginning 10 connection sounds :/)
 
 paths for soundfiles:
-welcome sound:
-- instasity/wejsciowki/dolaczenie.mp3
-connect sound:
-- instasity/wejsciowki/wejscie.mp3
-disconnect sound: 
-- instasity/wejsciowki/wyjscie.mp3
+- instasity/wejsciowki/dolaczenie.mp3 (welcome sound)
+- instasity/wejsciowki/wejscie.mp3 (connect sound)
+- instasity/wejsciowki/wyjscie.mp3 (disconnect sound)
 
 cvars:
 
