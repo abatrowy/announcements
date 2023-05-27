@@ -20,4 +20,4 @@ cvars:
 
 - sounds_welcome 1 - enables welcome sound (def 1)
 - sounds_connect 1 - enables connect sound (def 1)
-- sounds_disconnect 1 - enables connect sound (def 1)
+- sounds_disconnect 1 - enables disconnect sound (def 1)
