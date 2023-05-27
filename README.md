@@ -7,6 +7,6 @@ plugin contains:
 - connect sound
 - disconnect sound
 
-one thing is todo:
+one thing todo:
 - cooldown for connect sound
 (when there's around 10 players in server and you gonna change map, you gonna hear from the beginning 10 connection sounds :/)
