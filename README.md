@@ -9,7 +9,7 @@ plugin contains:
 
 one thing todo:
 - cooldown for connect sound
-(when there's around 10 players in server and you gonna change map, you gonna hear from the beginning 10 connection sounds :/)
+(when there's around 10 players in server and you gonna change map, you'll hear from the start 10 connection sounds :/)
 
 paths for soundfiles:
 - instasity/wejsciowki/dolaczenie.mp3 (welcome sound)
